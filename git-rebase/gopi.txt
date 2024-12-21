@@ -1,2 +1,3 @@
+edit in kg-local
 this is test commit
 edited in kg1 directly
