@@ -1,2 +1,4 @@
 # ignore the temp files
 .~*.*
+*.cast
+oldcast/
