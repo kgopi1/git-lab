@@ -1,0 +1,3 @@
+[submodule "helm-charts"]
+	path = helm-charts
+	url = https://github.com/kgopi1/helm-charts.git
